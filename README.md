@@ -1,4 +1,4 @@
-# Workchoice/Woods/WiOn Switches for Home Assistant
+# Ecoplug: Workchoice/Woods/WiOn Switches for Home Assistant
 
 [![MIT license](http://img.shields.io/badge/license-MIT-brightgreen.svg)](http://opensource.org/licenses/MIT)
 
