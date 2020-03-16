@@ -31,7 +31,7 @@ Note: No support for the energy monitoring capability of selected outlets.
 
 ### Installation with HACS
 
-Make sure that [Home Assistant Community Store (HACS)](https://github.com/custom-components/hacs) is setup, then add the "Integration" repository: `gbealmer/pyecoplug`.
+The easist solution for installing, and keeping up-to-date, this Home Assistant integration is to install using the [Home Assistant Community Store (HACS)](https://github.com/custom-components/hacs). Make sure you have installed [HACS](https://github.com/custom-components/hacs), then through the Store panel in Home Assistant, add the "Integration" repository: `gbealmer/pyecoplug`.
 
 ### Manual Home Assistant installation
 
