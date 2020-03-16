@@ -1,6 +1,6 @@
 {
   "domain": "ecoplug",
-  "name": "Ecoplug: Workchoice/Woods/WiOn Switches",
+  "name": "ECO Plug Switches",
   "documentation": "https://github.com/gbealmer/pyecoplug/",
   "dependencies": [],
   "codeowners": [],

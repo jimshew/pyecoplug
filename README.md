@@ -1,4 +1,4 @@
-# Ecoplug: Workchoice/Woods/WiOn Switches for Home Assistant
+# ECO Plug Switches for Home Assistant
 
 [![MIT license](http://img.shields.io/badge/license-MIT-brightgreen.svg)](http://opensource.org/licenses/MIT)
 
@@ -29,11 +29,11 @@ Note: No support for the energy monitoring capability of selected outlets.
 
 # Installation
 
-## Installation with HACS
+### Installation with HACS
 
 Make sure that [Home Assistant Community Store (HACS)](https://github.com/custom-components/hacs) is setup, then add the "Integration" repository: `gbealmer/pyecoplug`.
 
-## Manual Home Assistant installation
+### Manual Home Assistant installation
 
 1. Plugs must be setup on the same network as your homeassistant system via the Eco Plug apk.
 2. Copy folder/files from custom_components/ecoplug to "your homeassistant dir"/custom_components/ecoplug
