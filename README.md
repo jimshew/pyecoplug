@@ -56,7 +56,7 @@ Note: Updated to add scan_interval entry. Required to detect status when manual 
 
 
 
-# Original README from philburr
+## Original README from philburr
 
 Python library interface to EcoPlug wifi outlet.
 
