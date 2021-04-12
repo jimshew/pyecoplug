@@ -1,8 +1,10 @@
 {
   "domain": "ecoplug",
   "name": "ECO Plug Switches",
+  "version": "0.0.5",
   "documentation": "https://github.com/gbealmer/pyecoplug/",
+  "issue_tracker": "https://github.com/gbealmer/pyecoplug/issues",
   "dependencies": [],
-  "codeowners": [],
+  "codeowners": [ "@gbealmer" ],
   "requirements": ["pyecoplug==0.0.5"]
 }
