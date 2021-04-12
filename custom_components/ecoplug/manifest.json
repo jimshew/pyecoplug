@@ -5,6 +5,6 @@
   "documentation": "https://github.com/gbealmer/pyecoplug/",
   "issue_tracker": "https://github.com/gbealmer/pyecoplug/issues",
   "dependencies": [],
-  "codeowners": [ "@gbealmer" ],
+  "codeowners": [ "@philburr", "@gbealmer" ],
   "requirements": ["pyecoplug==0.0.5"]
 }
