@@ -1,6 +1,6 @@
 import logging
 
-from homeassistant.const import (DEVICE_DEFAULT_NAME, ATTR_HIDDEN, EVENT_HOMEASSISTANT_STOP)
+from homeassistant.const import EVENT_HOMEASSISTANT_STOP
 
 from homeassistant.components.switch import SwitchEntity
 from homeassistant.helpers.entity import ToggleEntity
@@ -12,7 +12,6 @@ DOMAIN = 'ecoplug'
 REQUIREMENTS = ['pyecoplug==0.0.5']
 _LOGGER = logging.getLogger(__name__)
 SCAN_INTERVAL = 5
-
 
 class EcoPlugSwitch(SwitchEntity):
     def __init__(self, plug):
