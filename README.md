@@ -2,6 +2,18 @@
 
 [![MIT license](http://img.shields.io/badge/license-MIT-brightgreen.svg)](http://opensource.org/licenses/MIT)
 
+# UNSUPPORTED
+
+NOTE: This integration is unsupported. I have modified it from the original to keep it going for my own
+installation, but no guarantees the repo https://github.com/rsnodgrass/pyecoplug will continue to exist.
+I may delete this at any time.
+
+The Home Assistant EcoPlug support forum can be found here:
+https://community.home-assistant.io/t/ecoplug-integration/83854/64
+
+
+# Original from @philburr
+
 While evaluating Home Assistant, I ran across this repository.
 I was looking for support available for my existing devices to
 determine the viability of moving from openHAB. One type of device
