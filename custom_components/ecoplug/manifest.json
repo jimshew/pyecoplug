@@ -5,6 +5,7 @@
   "documentation": "https://github.com/philburr/pyecoplug/",
   "issue_tracker": "https://github.com/philburr/pyecoplug/issues",
   "dependencies": [],
+  "iot_class": "local_polling",
   "codeowners": [ "@philburr", "@gbealmer" ],
   "requirements": ["pyecoplug>=0.0.5"]
 }
